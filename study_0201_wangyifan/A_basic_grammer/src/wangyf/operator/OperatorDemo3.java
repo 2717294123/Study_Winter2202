@@ -11,7 +11,7 @@ public class OperatorDemo3 {
         System.out.println(15 + "abc" + 15);//15abc15
         System.out.println(a + 'a');//97+5=102
         System.out.println(a + "" + 'a');// a = 5 先和空字符连接成字符串后在连接‘a'  ===>5a
-        System.out.println(a + 'a' + "  wangyf ");//102  wangyf
+        System.out.println(a + 'a' + "wangyf ");//102  wangyf
         System.out.println("wangyf" + a + 'a');//wangyf5a
         System.out.println("wangyf" + (a + 'a'));//wangyf102
 

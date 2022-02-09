@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/study_0201_wangyifan/A_basic_grammer/A_basic_grammer.iml" filepath="$PROJECT_DIR$/study_0201_wangyifan/A_basic_grammer/A_basic_grammer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_0201_wangyifan/B_flow_control_app/B_flow_control_app.iml" filepath="$PROJECT_DIR$/study_0201_wangyifan/B_flow_control_app/B_flow_control_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_0201_wangyifan/C_array_app/C_array_app.iml" filepath="$PROJECT_DIR$/study_0201_wangyifan/C_array_app/C_array_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_0201_wangyifan/D_method_app/D_method_app.iml" filepath="$PROJECT_DIR$/study_0201_wangyifan/D_method_app/D_method_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/../winter_study/javase_0126_01/JavaSE01/JavaSE01.iml" filepath="$PROJECT_DIR$/../winter_study/javase_0126_01/JavaSE01/JavaSE01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Study_Winter_2202_04_niyeye/Study_Winter_2202_04_niyeye.iml" filepath="$PROJECT_DIR$/Study_Winter_2202_04_niyeye/Study_Winter_2202_04_niyeye.iml" />
       <module fileurl="file://$PROJECT_DIR$/study_0201_wangyifan/study_0201_wangyifan.iml" filepath="$PROJECT_DIR$/study_0201_wangyifan/study_0201_wangyifan.iml" />
